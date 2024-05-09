@@ -28,7 +28,7 @@
 }
 
 @media screen and (max-width: 480px) {
-    .NFT-Card .author-info {
+    .author-info {
         width: 278px;
     }
 }
