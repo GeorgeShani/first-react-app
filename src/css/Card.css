@@ -9,3 +9,10 @@
     border-radius: 16px;
     padding: 18px 0;
 }
+
+@media screen and (max-width: 480px) {
+    .NFT-Card {
+        width: 327px;
+        height: 514px;
+    }
+}
