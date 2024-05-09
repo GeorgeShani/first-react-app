@@ -1,4 +1,3 @@
-import './App.css';
 import Card from './Card.js';
 
 function App() {
